@@ -20,7 +20,7 @@ Following successful access, attackers can manipulate refrigeration configuratio
 
 These changes can force refrigeration equipment into continuous heating or defrost cycles, resulting in elevated temperatures, spoiled food and other temperature-sensitive products, equipment damage, operational disruption and potential fire hazards. 
 
- The **Outbreak Response - Refrigeration Control Systems Attack** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/2.0.0/docs/background-information.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*.
+ The **Outbreak Response - Refrigeration Control Systems Attack** solution pack works with the Threat Hunt rules in [Outbreak Response Framework](https://github.com/fortinet-fortisoar/solution-pack-outbreak-response-framework/blob/release/2.3.0/docs/background-information.md#threat-hunt-rules) solution pack to conduct hunts that identify and help investigate potential Indicators of Compromise (IOCs) associated with this vulnerability within operational environments of *FortiSIEM*, *FortiAnalyzer*.
 
  The [FortiGuard Outbreak Page]() contains information about the outbreak alert **Outbreak Response - Refrigeration Control Systems Attack**. 
 
